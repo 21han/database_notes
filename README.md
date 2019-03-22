@@ -57,3 +57,10 @@ The -2 for the TTL of the key means that the key does not exist (anymore). A -1 
     TTL resource:lock => 119
     SET resource:lock "Redis Demo 2"
     TTL resource:lock => -1
+
+
+### Mass Insertion
+
+[Link](https://redis.io/topics/mass-insert)
+
+
